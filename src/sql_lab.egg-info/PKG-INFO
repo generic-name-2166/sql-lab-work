@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: sql-lab
+Version: 0.0.0
+Requires-Python: >=3.12
+Requires-Dist: psycopg2>=2.9.0
+Requires-Dist: SQLAlchemy>=2.0.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: pandas>=2.1.0
